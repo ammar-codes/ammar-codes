@@ -68,4 +68,4 @@ National Talent Hunt Program (Fully Funded Scholarship)
 - Delivering high-quality results with attention to detail  
 
 📫 **Connect with me:**  
- [![LinkedIn](https://img.shields.io/badge/linkedin-in/ammar--naeem--shaikh-0077B5)](https://linkedin.com/in/ammar-naeem-shaikh) [![GitHub](https://img.shields.io/badge/github-ammar--codes-181717?logo=github)](https://github.com/ammar-codes) [![Gmail](https://img.shields.io/badge/gmail-ammar.codes1-EA4335?logo=gmail)](mailto:ammar.codes1@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/linkedin-in/ammar--naeem--shaikh-0077B5)](https://linkedin.com/in/ammar-naeem-shaikh) [![GitHub](https://img.shields.io/badge/github-ammar--codes-181717?logo=github)](https://github.com/ammar-codes) [![Gmail](https://img.shields.io/badge/gmail-ammar.codes1-EA4335?logo=gmail)](mailto:ammar.codes1@gmail.com)[![LeetCode](https://img.shields.io/badge/leetcode-ammar--codes-FFA116?logo=leetcode)](https://leetcode.com/u/ammar-codes/)
